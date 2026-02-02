@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mynginx
-        image: kamalpunn/nginx:v1
+        image: kamalpunn/nginx:v2
         ports:
         - containerPort: 80
